@@ -1,0 +1,8 @@
+fun sayHi() {
+    // LOX supports multi-line strings!
+    print "
+Hello, World!
+";
+}
+
+sayHi();
